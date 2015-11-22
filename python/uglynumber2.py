@@ -1,4 +1,5 @@
 #find the nth uglynumber
+#This method is not efficiency
 class Solution(object):
     def nthUglyNumber(self, n):
         """
